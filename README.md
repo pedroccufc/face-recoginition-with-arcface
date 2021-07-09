@@ -4,7 +4,7 @@ Código para https://www.learnopencv.com/face-recognition-with-arcface/ postagem
 
 ## Código fonte original
 
-Algumas partes do código e do modelo de identificação de rosto treinado são do repositório [face.evoLVe] (https://github.com/ZhaoJ9014/face.evoLVe.PyTorch) que é lançado sob a [Licença MIT](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch/blob/master/LICENÇA). Muito obrigado a eles!
+Algumas partes do código e do modelo de identificação de rosto treinado são do repositório [face.evoLVe](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch) que é lançado sob a [Licença MIT](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch/blob/master/LICENÇA). Muito obrigado a eles!
 
 ## Código adaptado original
 
