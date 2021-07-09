@@ -1,4 +1,4 @@
-# Face recognition with ArcFace
+# Reconhecimento facial com ArcFace
 
 Código para https://www.learnopencv.com/face-recognition-with-arcface/ postagem do blog que ilustra os conceitos de reconhecimento facial.
 
